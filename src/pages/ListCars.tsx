@@ -30,7 +30,7 @@ const ListCars = () => {
   return (
     <div className=" px-4 lg:px-16 lg:mt-24">
       <Navbar />
-      <h2 className="text-2xl font-semibold text-gray-900 sm:text-3xl my-5">
+      <h2 className="text-2xl font-semibold text-gray-900 sm:text-3xl my-10 lg:pt-24 text-center">
         We offer the best experience with our rental deals
       </h2>
       <div>
