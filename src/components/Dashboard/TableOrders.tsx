@@ -362,7 +362,7 @@ const TableOrders = () => {
           aria-modal="true"
           aria-labelledby="editModalTitle"
         >
-          <div className="w-full min-w-xl rounded-lg bg-white p-6 shadow-lg">
+          <div className="w-full min-w-sm lg:min-w-xl rounded-lg bg-white p-6 shadow-lg">
             <div className="flex items-start justify-between">
               <h2
                 id="editModalTitle"
