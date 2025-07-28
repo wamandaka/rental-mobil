@@ -5,7 +5,7 @@
 - React.js
 - TypeScript
 - Tailwind CSS
-- React Router
+- React Router Dom
 - React Icons
 - React Toastify
 
